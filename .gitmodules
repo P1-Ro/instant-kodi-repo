@@ -1,0 +1,3 @@
+[submodule "src/script.playonkodi.urldownloader"]
+	path = src/script.playonkodi.urldownloader
+	url = https://github.com/P1-Ro/script.playonkodi.urldownloader.git
