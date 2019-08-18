@@ -10,4 +10,4 @@ The following addons are available here:
 - [__URL Downloader__](master/datadir/script.playonkodi.urldownloader/script.playonkodi.urldownloader-1.1.0.zip) script.playonkodi.urldownloader v1.1.0
 
 ----
-_Generated with [instant-kodi-repo](https://github.com/ping/instant-kodi-repo/) from_ [``6bd05cd``](https://github.com/p1-ro/instant-kodi-repo/commit/6bd05cd1a51c93fc3f89c563e995bc1e9e2bb2ad)
+_Generated with [instant-kodi-repo](https://github.com/ping/instant-kodi-repo/) from_ [``73b1abd``](https://github.com/p1-ro/instant-kodi-repo/commit/73b1abd08ce6c929df29a66f1b35effd4b599d6e)
