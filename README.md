@@ -1,15 +1,16 @@
-# Almost "Instant" Kodi Addon Repository
+# [My Kodi Addon Repository](https://p1-ro.github.io/instant-kodi-repo/)  [![Build Status](https://travis-ci.org/P1-Ro/instant-kodi-repo.svg?branch=master)](https://travis-ci.org/P1-Ro/instant-kodi-repo)
 
-_Almost_ instant but not quite (/understatement)
+## What's new 
+- Support for git submodules in src folder
+- Fixed crashing during repo building because of uppercase name
 
-[![Build Status](https://travis-ci.org/P1-Ro/instant-kodi-repo.svg?branch=master)](https://travis-ci.org/P1-Ro/instant-kodi-repo)
 
 ## Features
 - Auto generates your personal Kodi addon repository hosted on GitHub
 - Auto updates everytime you update your addon code
 - Auto generates a repository addon zip for your new personal repository
 
-[Demo](https://p1-ro.github.io/instant-kodi-repo/)
+
 
 ## Get Started
 
