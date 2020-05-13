@@ -1,3 +1,6 @@
 [submodule "src/script.playonkodi.urldownloader"]
 	path = src/script.playonkodi.urldownloader
 	url = https://github.com/P1-Ro/script.playonkodi.urldownloader.git
+[submodule "src/script.audio.normalizer"]
+	path = src/script.audio.normalizer
+	url = https://github.com/P1-Ro/script.audio.normalizer.git
