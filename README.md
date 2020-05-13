@@ -1,3 +1,5 @@
+# p1-ro/instant-kodi-repo Kodi Addon Repository
+
 Download the [repository addon zip](master/datadir/repository.p1-ro.instant-kodi-repo/repository.p1-ro.instant-kodi-repo-1.0.1.zip) to install.
 
 The following addons are available here:
